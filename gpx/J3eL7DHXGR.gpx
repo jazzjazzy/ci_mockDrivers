@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><gpx version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:topografix="http://www.topografix.com/GPX/Private/TopoGrafix/0/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/1 http://www.topografix.com/GPX/Private/TopoGrafix/0/1/topografix.xsd" xmlns="http://www.topografix.com/GPX/1/1">
+  <name>map</name>
+  <desc>map</desc>
+  <trk>
+    <name />
+    <desc />
+    <topografix:color>FF0000</topografix:color>
+    <trkseg>
+      <trkpt lat="-37.775442851587023" lon="145.03904569643205">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.775473699999985" lon="145.03902430000002">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.7756887" lon="145.03888320000001">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.776322999999984" lon="145.03839930000004">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.776651399999992" lon="145.03809870000003">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.777109699999968" lon="145.0376135">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.777202999999986" lon="145.03751720000002">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.777546599999994" lon="145.03718190000004">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.777561300000009" lon="145.0374241">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.77757399999998" lon="145.0375394">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.777561300000009" lon="145.0374241">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.7776334" lon="145.0373865">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.77767579999999" lon="145.0372658">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.7777118" lon="145.03721490000004">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.77776269999999" lon="145.03718799999996">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.7777118" lon="145.03721490000004">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.77767579999999" lon="145.0372658">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.7776334" lon="145.0373865">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.777561300000009" lon="145.0374241">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.777546599999994" lon="145.03718190000004">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.7781292" lon="145.03664800000004">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.778664317539118" lon="145.03615767078915">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.778732890464987" lon="145.03579461624938">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.778754604076511" lon="145.03584604699654">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.778974951680176" lon="145.03587454715984">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.779592599999972" lon="145.0352975">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.7795364" lon="145.0351111">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.779592599999972" lon="145.0352975">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.779847899999993" lon="145.03501980000001">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.780053399999986" lon="145.03468670000004">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.7801421" lon="145.0344117">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.780196" lon="145.03415230000004">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.780240299999988" lon="145.03390090000002">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.78055389999998" lon="145.03224070000002">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.780756899999986" lon="145.03116590000002">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.780912199999989" lon="145.0303441">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.780963699999987" lon="145.03007130000003">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.781078299999969" lon="145.02946450000002">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.781222099999994" lon="145.02870340000004">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.7813674" lon="145.0279342">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.7814921" lon="145.0272744">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.781587299999977" lon="145.02677020000002">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.781604699999981" lon="145.0263388">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.7816264" lon="145.02599860000007">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.781637299999986" lon="145.02581310000002">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.781661399999976" lon="145.02555750000002">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.781582" lon="145.0254345">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.781661399999976" lon="145.02555750000002">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.781684299999988" lon="145.0253729">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.781719" lon="145.02514160000004">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.781638" lon="145.02511680000003">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.781620199999992" lon="145.02503240000001">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.781612900000006" lon="145.02491310000002">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.781622999999989" lon="145.02487310000006">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.781325299999985" lon="145.02480160000002">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.7811565" lon="145.0247615">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.781005399999991" lon="145.02474740000005">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.780904800000009" lon="145.0247565">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.780803299999981" lon="145.02479310000004">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.780397599999979" lon="145.02485910000001">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.7793336" lon="145.02505750000003">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.779257700000009" lon="145.02507070000001">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.7791828" lon="145.02508150000003">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.779144899999991" lon="145.0250899">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.778997899999972" lon="145.0251111">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.7772085" lon="145.0254408">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.775578999999986" lon="145.02573650000002">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.774835599999982" lon="145.02587270000004">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.77399939999998" lon="145.02601780000003">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.773238599999992" lon="145.02615190000003">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+      <trkpt lat="-37.773208921325846" lon="145.02615715164754">
+        <sym xmlns="">Waypoint</sym>
+        <ele xmlns="" />
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

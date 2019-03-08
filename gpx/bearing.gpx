@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.0" creator="GPS Visualizer http://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<wpt lat="-37.7806351" lon="145.0254971">
+  <name>-37.7806351,145.0254971</name>
+  <desc>11 Fulham Rd, Alphington VIC 3078, Australia</desc>
+</wpt>
+<wpt lat="-37.78" lon="145.023">
+  <name>-37.78,145.023</name>
+  <desc>3 Hamilton St, Alphington VIC 3078, Australia</desc>
+</wpt>
+<trk>
+  <name>11 Fulham Rd - Alphington VIC 3078 - 3 Hamilton St</name>
+  <trkseg>
+    <trkpt lat="-37.78068" lon="145.02595"></trkpt>
+    <trkpt lat="-37.77941" lon="145.02617">
+      <course>7.8</course>
+    </trkpt>
+    <trkpt lat="-37.77937" lon="145.02618">
+      <course>11.2</course>
+    </trkpt>
+    <trkpt lat="-37.77937" lon="145.02618">
+      <course>11.2</course>
+    </trkpt>
+    <trkpt lat="-37.77935" lon="145.02617">
+      <course>338.4</course>
+    </trkpt>
+    <trkpt lat="-37.77933" lon="145.02617">
+      <course>0.0</course>
+    </trkpt>
+    <trkpt lat="-37.77933" lon="145.02616">
+      <course>270.0</course>
+    </trkpt>
+    <trkpt lat="-37.77932" lon="145.02615">
+      <course>321.7</course>
+    </trkpt>
+    <trkpt lat="-37.77931" lon="145.02613">
+      <course>302.3</course>
+    </trkpt>
+    <trkpt lat="-37.77931" lon="145.0261">
+      <course>270.0</course>
+    </trkpt>
+    <trkpt lat="-37.77931" lon="145.02603">
+      <course>270.0</course>
+    </trkpt>
+    <trkpt lat="-37.77931" lon="145.02562">
+      <course>270.0</course>
+    </trkpt>
+    <trkpt lat="-37.77935" lon="145.02524">
+      <course>262.4</course>
+    </trkpt>
+    <trkpt lat="-37.77934" lon="145.02515">
+      <course>278.0</course>
+    </trkpt>
+    <trkpt lat="-37.77934" lon="145.02508">
+      <course>270.0</course>
+    </trkpt>
+    <trkpt lat="-37.77934" lon="145.02506">
+      <course>270.0</course>
+    </trkpt>
+    <trkpt lat="-37.77934" lon="145.02506">
+      <course>270.0</course>
+    </trkpt>
+    <trkpt lat="-37.77966" lon="145.02501">
+      <course>187.0</course>
+    </trkpt>
+    <trkpt lat="-37.77979" lon="145.02498">
+      <course>190.3</course>
+    </trkpt>
+    <trkpt lat="-37.78037" lon="145.02486">
+      <course>189.3</course>
+    </trkpt>
+    <trkpt lat="-37.78037" lon="145.02486">
+      <course>189.3</course>
+    </trkpt>
+    <trkpt lat="-37.7803" lon="145.02414">
+      <course>277.0</course>
+    </trkpt>
+    <trkpt lat="-37.78028" lon="145.02403">
+      <course>283.0</course>
+    </trkpt>
+    <trkpt lat="-37.78027" lon="145.02397">
+      <course>281.9</course>
+    </trkpt>
+    <trkpt lat="-37.78025" lon="145.02391">
+      <course>292.9</course>
+    </trkpt>
+    <trkpt lat="-37.78023" lon="145.02387">
+      <course>302.3</course>
+    </trkpt>
+    <trkpt lat="-37.78018" lon="145.02381">
+      <course>316.5</course>
+    </trkpt>
+    <trkpt lat="-37.78018" lon="145.02381">
+      <course>316.5</course>
+    </trkpt>
+    <trkpt lat="-37.78022" lon="145.02373">
+      <course>237.7</course>
+    </trkpt>
+    <trkpt lat="-37.78023" lon="145.0237">
+      <course>247.1</course>
+    </trkpt>
+    <trkpt lat="-37.78023" lon="145.02368">
+      <course>270.0</course>
+    </trkpt>
+    <trkpt lat="-37.78023" lon="145.02366">
+      <course>270.0</course>
+    </trkpt>
+    <trkpt lat="-37.78023" lon="145.02363">
+      <course>270.0</course>
+    </trkpt>
+    <trkpt lat="-37.78022" lon="145.02359">
+      <course>287.6</course>
+    </trkpt>
+    <trkpt lat="-37.7802" lon="145.02355">
+      <course>302.3</course>
+    </trkpt>
+    <trkpt lat="-37.78016" lon="145.02349">
+      <course>310.1</course>
+    </trkpt>
+    <trkpt lat="-37.77988" lon="145.02317">
+      <course>317.9</course>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>
